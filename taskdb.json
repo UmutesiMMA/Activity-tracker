@@ -1,1 +1,87 @@
-{"tasks":[{"id":"7f384913-25c6-4735-8a3e-c05fdd6cd982","title":"Study","status":"OPEN","description":"Must be done daily apparently"},{"id":"080df6ba-4e8d-4b90-bf04-97b0d9faf734","title":"Drink water","status":"OPEN","description":"Must be done atleast 6 times a day"},{"id":"749aafb1-55e5-4d0f-92ab-62563f16060f","title":"Be positive","status":"OPEN","description":"Must be done literally every second of your lifetime"},{"id":"2dea710b-b40f-4c98-bd4a-eed74406ab3d","title":"Be supportive","status":"OPEN","description":"Must be done literally every minute of your lifetime"},{"id":"bab3a1c5-4b24-4ce4-a734-61f1e867f967","title":"Be support","status":"OPEN","description":"Must be done literally every minute of your lifetime"}]}
+{
+    "tasks": [
+        {
+            "id": "7f384913-25c6-4735-8a3e-c05fdd6cd982",
+            "title": "Study",
+            "status": "OPEN",
+            "description": "Must be done daily apparently"
+        },
+        {
+            "id": "080df6ba-4e8d-4b90-bf04-97b0d9faf734",
+            "title": "Drink water",
+            "status": "OPEN",
+            "description": "Must be done atleast 6 times a day"
+        },
+        {
+            "id": "749aafb1-55e5-4d0f-92ab-62563f16060f",
+            "title": "Be positive",
+            "status": "OPEN",
+            "description": "Must be done literally every second of your lifetime"
+        },
+        {
+            "id": "3cf84409-5fa7-48b8-b504-803bf713b8ec",
+            "title": "Submit PR",
+            "status": "OPEN",
+            "description": "Must be done literally every minute of your lifetime"
+        },
+        {
+            "id": "49f42222-326b-4ada-b3b4-5b55cbe93d23",
+            "title": "Submit PR",
+            "status": "IN_PROGRESS",
+            "description": "Must be done literally every minute of your lifetime"
+        },
+        {
+            "id": "23ef31e6-2f30-44e2-bd5d-7c0db99a16e9",
+            "title": "Create a new branch",
+            "status": "IN_PROGRESS",
+            "description": "Must be done literally every minute of your lifetime"
+        },
+        {
+            "id": "1743b521-6cdd-4820-a46b-1ea1944706cc",
+            "title": "Create two new branches",
+            "status": "IN_PROGRESS",
+            "description": "Must be done literally every minute of your lifetime",
+            "category": "Work"
+        },
+        {
+            "id": "6d06c741-231a-4deb-b5c3-9f934b4280c6",
+            "title": "Create two new branches",
+            "status": "IN_PROGRESS",
+            "description": "Must be done literally every minute of your lifetime",
+            "category": "Work"
+        },
+        {
+            "id": "ac9ef3cc-db8e-4ee5-87dc-0c749318cf3a",
+            "title": "Change folder structure",
+            "status": "OPEN",
+            "description": "Create a clear and simplified structure",
+            "category": "Personal"
+        }
+    ],
+    "categories": [
+        {
+            "id": "98e45af2-897d-4871-ab9b-fa4ff3b46e6b",
+            "name": "Work"
+        },
+        {
+            "id": "f9c798ef-5bb3-4777-a2ec-1e0cd4aa47df",
+            "name": "Personal"
+        },
+        {
+            "id": "7fbba5c7-32ad-4e32-bd80-f33f1a7d6d85",
+            "name": "Urgent"
+        },
+        {
+            "id": "645f5018-82b9-42db-b0cf-1ade0cf9d492",
+            "names": "Urgent"
+        },
+        {
+            "id": "4526ec75-19d5-4c8a-a815-ce8cfc1374d0",
+            "names": "Urgent meetings"
+        },
+        {
+            "id": "6281c321-a3f5-48a9-9f74-d8028a5051a1",
+            "names": "Urgent meetings2"
+        }
+    ]
+}

@@ -4,8 +4,9 @@ export enum status {
   DONE = 'DONE',
 }
 export class TaskEntity {
-  id: number;
+  id: string;
   title: string;
   status: status;
   description: string;
+  category: string;
 }
