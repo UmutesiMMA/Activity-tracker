@@ -1,4 +1,4 @@
 export class CategoryEntity {
-  id: number;
+  id: string;
   name: string;
 }

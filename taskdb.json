@@ -1,12 +1,6 @@
 {
     "tasks": [
         {
-            "id": "7f384913-25c6-4735-8a3e-c05fdd6cd982",
-            "title": "Study",
-            "status": "OPEN",
-            "description": "Must be done daily apparently"
-        },
-        {
             "id": "080df6ba-4e8d-4b90-bf04-97b0d9faf734",
             "title": "Drink water",
             "status": "OPEN",
@@ -26,7 +20,7 @@
         },
         {
             "id": "49f42222-326b-4ada-b3b4-5b55cbe93d23",
-            "title": "Submit PR",
+            "title": "Start a new project",
             "status": "IN_PROGRESS",
             "description": "Must be done literally every minute of your lifetime"
         },
@@ -56,32 +50,98 @@
             "status": "OPEN",
             "description": "Create a clear and simplified structure",
             "category": "Personal"
+        },
+        {
+            "id": "6e679b39-fd19-484a-9d04-9a4bd20fad8d",
+            "title": "Change file structure",
+            "status": "DONE",
+            "description": "Create a clear and simplified structure",
+            "category": "Personal"
+        },
+        {
+            "id": "6a611551-ffd6-45cb-a970-eec3d641a9fe",
+            "title": "Change the structure",
+            "status": "DONE",
+            "description": "Create a clear and simplified structure, very vague indeed",
+            "category": "Urgent"
+        },
+        {
+            "id": "4e059665-95ff-4f47-9fbd-d5153add554a",
+            "title": "Test0",
+            "status": "OPEN",
+            "description": "Create a clear and simplified structure, very vague indeed",
+            "category": "test1"
+        },
+        {
+            "id": "f3bf03de-5d23-4752-b445-510099a2bfaa",
+            "title": "Test2",
+            "status": "OPEN",
+            "description": "Create a clear and simplified structure, very vague indeed",
+            "category": "test2"
+        },
+        {
+            "id": "4464241e-594e-4cfb-80d4-a984149feed4",
+            "title": "Test using category:test3",
+            "status": "OPEN",
+            "description": "Create a clear and simplified structure, very vague indeed",
+            "category": "test3"
+        },
+        {
+            "id": "a2b23ba5-a16c-477d-a495-5461321357fe",
+            "title": "Test2 using category:test3",
+            "status": "OPEN",
+            "description": "Create a clear and simplified structure, very vague indeed",
+            "category": "test3"
+        },
+        {
+            "id": "7a683854-fa17-43d9-b73b-628db64eec09",
+            "title": "Test3 using category:test3",
+            "status": "OPEN",
+            "description": "Create a clear and simplified structure, very vague indeed",
+            "category": "test3"
+        },
+        {
+            "id": "9939a5f7-dac8-4d66-84b4-7216f9817f57",
+            "title": "Test3 using 103",
+            "status": "OPEN",
+            "description": "Create a clear and simplified structure, very vague indeed",
+            "categoryId": "288a4977-b38c-40d2-93c6-d7316fc8baa6"
+        },
+        {
+            "id": "cbc2e7cf-722c-4a9d-8f11-037386070a99",
+            "title": "Test3 using whatever I want",
+            "status": "DONE",
+            "description": "Create a clear and simplified structure, very vague indeed",
+            "categoryId": "288a4977-b38c-40d2-93c6-d7316fc8baa6"
+        },
+        {
+            "id": "0e07992f-1cef-41d1-9492-997f4fae1ae6",
+            "title": "Wake up",
+            "description": "Wake up early",
+            "categoryId": "f65bccc5-cd5f-46f8-8b8d-74dec28897a4",
+            "status": "OPEN"
         }
     ],
     "categories": [
-        {
-            "id": "98e45af2-897d-4871-ab9b-fa4ff3b46e6b",
-            "name": "Work"
-        },
         {
             "id": "f9c798ef-5bb3-4777-a2ec-1e0cd4aa47df",
             "name": "Personal"
         },
         {
-            "id": "7fbba5c7-32ad-4e32-bd80-f33f1a7d6d85",
-            "name": "Urgent"
+            "id": "a7cfd864-ffec-4db8-8629-acb271c07dc3",
+            "name": "test1"
         },
         {
-            "id": "645f5018-82b9-42db-b0cf-1ade0cf9d492",
-            "names": "Urgent"
+            "id": "f65bccc5-cd5f-46f8-8b8d-74dec28897a4",
+            "name": "test101"
         },
         {
-            "id": "4526ec75-19d5-4c8a-a815-ce8cfc1374d0",
-            "names": "Urgent meetings"
+            "id": "f77f4d71-6258-45d1-b96e-ab5ccdbecabd",
+            "name": "test102"
         },
         {
-            "id": "6281c321-a3f5-48a9-9f74-d8028a5051a1",
-            "names": "Urgent meetings2"
+            "id": "288a4977-b38c-40d2-93c6-d7316fc8baa6",
+            "name": "test103"
         }
     ]
 }

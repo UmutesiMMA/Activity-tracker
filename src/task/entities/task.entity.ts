@@ -8,5 +8,5 @@ export class TaskEntity {
   title: string;
   status: status;
   description: string;
-  category: string;
+  categoryId: string;
 }
