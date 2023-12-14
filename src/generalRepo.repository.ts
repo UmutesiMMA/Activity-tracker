@@ -1,9 +1,9 @@
-// import { Injectable } from '@nestjs/common';
+import { Injectable } from '@nestjs/common';
 import { Config, JsonDB } from 'node-json-db';
 import { TaskEntity } from './task/entities/task.entity';
 import { CategoryEntity } from './category/entities/category.entity';
 
-// @Injectable()
+@Injectable()
 export class generalRepo<T> {
   private path: string;
   private db = new JsonDB(new Config('taskdb', true, true, '/'));

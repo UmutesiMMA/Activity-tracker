@@ -1,124 +1,24 @@
 {
     "tasks": [
         {
-            "id": "080df6ba-4e8d-4b90-bf04-97b0d9faf734",
-            "title": "Drink water",
-            "status": "OPEN",
-            "description": "Must be done atleast 6 times a day"
-        },
-        {
-            "id": "749aafb1-55e5-4d0f-92ab-62563f16060f",
-            "title": "Be positive",
-            "status": "OPEN",
-            "description": "Must be done literally every second of your lifetime"
-        },
-        {
-            "id": "3cf84409-5fa7-48b8-b504-803bf713b8ec",
-            "title": "Submit PR",
-            "status": "OPEN",
-            "description": "Must be done literally every minute of your lifetime"
-        },
-        {
-            "id": "49f42222-326b-4ada-b3b4-5b55cbe93d23",
-            "title": "Start a new project",
-            "status": "IN_PROGRESS",
-            "description": "Must be done literally every minute of your lifetime"
-        },
-        {
-            "id": "23ef31e6-2f30-44e2-bd5d-7c0db99a16e9",
-            "title": "Create a new branch",
-            "status": "IN_PROGRESS",
-            "description": "Must be done literally every minute of your lifetime"
-        },
-        {
-            "id": "1743b521-6cdd-4820-a46b-1ea1944706cc",
-            "title": "Create two new branches",
-            "status": "IN_PROGRESS",
-            "description": "Must be done literally every minute of your lifetime",
-            "category": "Work"
-        },
-        {
-            "id": "6d06c741-231a-4deb-b5c3-9f934b4280c6",
-            "title": "Create two new branches",
-            "status": "IN_PROGRESS",
-            "description": "Must be done literally every minute of your lifetime",
-            "category": "Work"
-        },
-        {
-            "id": "ac9ef3cc-db8e-4ee5-87dc-0c749318cf3a",
-            "title": "Change folder structure",
-            "status": "OPEN",
-            "description": "Create a clear and simplified structure",
-            "category": "Personal"
-        },
-        {
-            "id": "6e679b39-fd19-484a-9d04-9a4bd20fad8d",
-            "title": "Change file structure",
-            "status": "DONE",
-            "description": "Create a clear and simplified structure",
-            "category": "Personal"
-        },
-        {
-            "id": "6a611551-ffd6-45cb-a970-eec3d641a9fe",
-            "title": "Change the structure",
-            "status": "DONE",
-            "description": "Create a clear and simplified structure, very vague indeed",
-            "category": "Urgent"
-        },
-        {
-            "id": "4e059665-95ff-4f47-9fbd-d5153add554a",
-            "title": "Test0",
-            "status": "OPEN",
-            "description": "Create a clear and simplified structure, very vague indeed",
-            "category": "test1"
-        },
-        {
-            "id": "f3bf03de-5d23-4752-b445-510099a2bfaa",
-            "title": "Test2",
-            "status": "OPEN",
-            "description": "Create a clear and simplified structure, very vague indeed",
-            "category": "test2"
-        },
-        {
-            "id": "4464241e-594e-4cfb-80d4-a984149feed4",
-            "title": "Test using category:test3",
-            "status": "OPEN",
-            "description": "Create a clear and simplified structure, very vague indeed",
-            "category": "test3"
-        },
-        {
-            "id": "a2b23ba5-a16c-477d-a495-5461321357fe",
-            "title": "Test2 using category:test3",
-            "status": "OPEN",
-            "description": "Create a clear and simplified structure, very vague indeed",
-            "category": "test3"
-        },
-        {
-            "id": "7a683854-fa17-43d9-b73b-628db64eec09",
-            "title": "Test3 using category:test3",
-            "status": "OPEN",
-            "description": "Create a clear and simplified structure, very vague indeed",
-            "category": "test3"
-        },
-        {
-            "id": "9939a5f7-dac8-4d66-84b4-7216f9817f57",
-            "title": "Test3 using 103",
-            "status": "OPEN",
-            "description": "Create a clear and simplified structure, very vague indeed",
-            "categoryId": "288a4977-b38c-40d2-93c6-d7316fc8baa6"
-        },
-        {
-            "id": "cbc2e7cf-722c-4a9d-8f11-037386070a99",
-            "title": "Test3 using whatever I want",
-            "status": "DONE",
-            "description": "Create a clear and simplified structure, very vague indeed",
-            "categoryId": "288a4977-b38c-40d2-93c6-d7316fc8baa6"
-        },
-        {
             "id": "0e07992f-1cef-41d1-9492-997f4fae1ae6",
             "title": "Wake up",
             "description": "Wake up early",
             "categoryId": "f65bccc5-cd5f-46f8-8b8d-74dec28897a4",
+            "status": "OPEN"
+        },
+        {
+            "id": "473c537a-5179-480b-a007-3393511de1df",
+            "title": "Drink water",
+            "description": "Create a clear and simplified structure, very vague indeed",
+            "categoryId": "f9c798ef-5bb3-4777-a2ec-1e0cd4aa47df",
+            "status": "OPEN"
+        },
+        {
+            "id": "1e229714-a547-4e2f-a474-82c177f19e0c",
+            "title": "Get enough sleep",
+            "description": "Good for your health I guess",
+            "categoryId": "f9c798ef-5bb3-4777-a2ec-1e0cd4aa47df",
             "status": "OPEN"
         }
     ],
@@ -142,6 +42,10 @@
         {
             "id": "288a4977-b38c-40d2-93c6-d7316fc8baa6",
             "name": "test103"
+        },
+        {
+            "id": "d2fd4fb0-3ef9-4db3-a084-799dd3dfdd6a",
+            "name": "School work"
         }
     ]
 }

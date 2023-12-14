@@ -1,6 +1,5 @@
 import { ApiProperty } from '@nestjs/swagger';
 import { IsNotEmpty, IsString } from 'class-validator';
-// import { status } from 'src/task/entities/task.entity';
 
 export class CreateTaskDto {
   @ApiProperty({
@@ -10,14 +9,6 @@ export class CreateTaskDto {
   @IsString()
   @IsNotEmpty()
   title: string;
-  // @ApiProperty({
-  //   example: 'DONE| OPEN | IN_PROGRESS',
-  //   required: true,
-  // })
-  // @IsString()
-  // @IsNotEmpty()
-  // @IsEnum(status)
-  // status: status;
   @ApiProperty({
     example:
       'Create a clear folder structure for documents folder and its sub-folders',
